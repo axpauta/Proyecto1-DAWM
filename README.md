@@ -1,1 +1,2 @@
-# Proyecto1-DAWM
+# Proyecto 1
+Nombre: Xavier Pauta
